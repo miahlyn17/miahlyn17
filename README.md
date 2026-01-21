@@ -14,7 +14,7 @@
 
 ## 🌱 About me
 
-- I'm passionate about building software projects, solving problems, and exploring new technologies to create efficient and scalable solutions.
+- I'm passionate about building web application projects, solving problems, and exploring new technologies to create efficient and scalable solutions.
 
 ## 👩‍💻 Technologies
 <p align="center">
