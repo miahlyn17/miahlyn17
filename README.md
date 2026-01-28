@@ -9,7 +9,7 @@
 ## Hello there, I'm Miahlyn Abellanosa <img height="35px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7B3FE4&center=true&vCenter=true&width=435&lines=.NET+Developer;Clean+Code;AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7B3FE4&center=true&vCenter=true&width=435&lines=.NET+Developer;Clean+Code;Software+Engineer;AI+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🌱 About me
