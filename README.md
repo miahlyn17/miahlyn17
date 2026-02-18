@@ -1,5 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,28,30&height=90&section=header&descAlignY=60&animation=fadeIn" alt="Header Banner" width="100%"/>
+
+  ![MVP_SocialGraphics_LinkedIn_1584x396px_Opt-4](https://user-images.githubusercontent.com/5668352/184517515-0d3addc7-c812-425b-bdcc-9da50d36985b.jpg)
 </div>
 
 <div align="center">
