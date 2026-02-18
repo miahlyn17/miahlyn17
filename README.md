@@ -18,7 +18,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Microsoft_MVP_banner.png" alt="Microsoft MVP" width="200"/>
 </p>
 
-- **Portfolio** – `https://weather-app-orpin-gamma-47.vercel.app/`
+- **Portfolio** – ``
 
 ## 👩‍💻 Technologies
 <p align="center">
@@ -28,7 +28,7 @@
 </p>
 
 ## 🌐 Let's Connect
-<p align="left"> <a href="https://www.linkedin.com/in/miahlyn-abellanosa-2a2002233/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/136922683/272305834-1a9f3795-0304-480f-8953-b92a0cfb1ca3.png" width="32" height="32" /></a> <a href="Jalen.1720@gmail.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/136922683/272307679-1e5d5f64-a063-437a-9f1e-fa2d7c8f8932.png" width="32" height="32"/></a> <a href="discordapp.com/users/1209682340394049576" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/1965106?s=280&amp;v=4" width="32" height="32"/></a>
+  <p align="left"> <a href="https://www.linkedin.com/in/miahlyn-abellanosa-2a2002233/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/136922683/272305834-1a9f3795-0304-480f-8953-b92a0cfb1ca3.png" width="32" height="32" /></a> <a href="Jalen.1720@gmail.com" target="_blank" rel="noreferrer">    <img src="https://user-images.githubusercontent.com/136922683/272307679-1e5d5f64-a063-437a-9f1e-fa2d7c8f8932.png" width="32" height="32"/></a> <a href="discordapp.com/users/1209682340394049576" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/1965106?s=280&amp;v=4" width="32" height="32"/></a>
 <p/>
 
 <div align="center">
