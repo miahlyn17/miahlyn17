@@ -18,7 +18,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Microsoft_MVP_banner.png" alt="Microsoft MVP" width="200"/>
 </p>
 
-**Portfolio** – `https://weather-app-orpin-gamma-47.vercel.app/`
+- **Portfolio** – `https://weather-app-orpin-gamma-47.vercel.app/`
 
 ## 👩‍💻 Technologies
 <p align="center">
