@@ -7,7 +7,6 @@
 </div>
 
 <p align="center">
-  <a href="https://mvp.microsoft.com/en-US/MVP/profile/11591845-876c-42b5-b701-5b8b21371c7f" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Microsoft_MVP_banner.png" alt="Microsoft MVP" width="200"/>
   </a>
 </p>
