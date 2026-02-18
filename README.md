@@ -37,6 +37,12 @@
     "Code With Purpose. Build With Passion."
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20" alt="Code Icon"/> 
   </h3>
+
+  <div align="center">
+  <a href="https://mvp.microsoft.com/en-US/mvp/profile/b6a5bd91-5ebd-4c84-8965-023a95273093?wt.mc_id=MVP_353010">
+    <img src="https://github.com/michaelmsonne/michaelmsonne/assets/49366751/15b969a0-e7b6-43f1-84fa-df37d160e065" alt="Microsoft MVP"/></a>
+</div>
+
 </div>
 
 <div align="center">
